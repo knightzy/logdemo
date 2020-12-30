@@ -31,9 +31,9 @@ execution(modifiers-pattern? ret-type-pattern declaring-type-pattern?name-patter
 * param-pattern：方法的参数类型，
 * throws-pattern：方法抛出的异常类型
 * *通配符，该通配符主要用于匹配单个单词，或者是以某个词为前缀或后缀的单词。
-* ..通配符，该通配符表示0个或多个项，主要用于declaring-type-pattern和param-pattern中，
+* ..通配符，该通配符表示0个或多个项，主要用于declaring-type-pattern和param-pattern中
 
-#@Order注解
+# @Order注解
 
 * 执行结果如图
 ![order执行顺序](./控制台截图/order执行顺序1.PNG)
