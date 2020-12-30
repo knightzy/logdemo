@@ -1,0 +1,187 @@
+2020-12-30 09:40:56 INFO  restartedMain com.zylogtest.demo.DemoApplication Starting DemoApplication using Java 1.8.0_271 on LAPTOP-8BS2MTAN with PID 17164 (D:\code\logdemo\target\classes started by zy in D:\code\logdemo)
+2020-12-30 09:40:56 INFO  restartedMain com.zylogtest.demo.DemoApplication No active profile set, falling back to default profiles: default
+2020-12-30 09:40:56 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-12-30 09:40:56 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-12-30 09:40:57 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-12-30 09:40:57 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-12-30 09:40:57 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-12-30 09:40:57 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.41]
+2020-12-30 09:40:57 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-12-30 09:40:57 INFO  restartedMain org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 695 ms
+2020-12-30 09:40:57 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-30 09:40:57 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-12-30 09:40:57 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-12-30 09:40:57 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-12-30 09:40:57 INFO  restartedMain com.zylogtest.demo.DemoApplication Started DemoApplication in 1.361 seconds (JVM running for 2.028)
+2020-12-30 09:41:06 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-30 09:41:06 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-12-30 09:41:06 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 0 ms
+2020-12-30 09:41:06 INFO  http-nio-8080-exec-1 com.zylogtest.demo.controller.logtest output info
+2020-12-30 11:26:47 INFO  restartedMain com.zylogtest.demo.DemoApplication Starting DemoApplication using Java 1.8.0_271 on LAPTOP-8BS2MTAN with PID 20040 (D:\code\logdemo\target\classes started by zy in D:\code\logdemo)
+2020-12-30 11:26:47 INFO  restartedMain com.zylogtest.demo.DemoApplication No active profile set, falling back to default profiles: default
+2020-12-30 11:26:47 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-12-30 11:26:47 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-12-30 11:26:47 INFO  restartedMain org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-12-30 11:29:07 INFO  restartedMain com.zylogtest.demo.DemoApplication Starting DemoApplication using Java 1.8.0_271 on LAPTOP-8BS2MTAN with PID 12508 (D:\code\logdemo\target\classes started by zy in D:\code\logdemo)
+2020-12-30 11:29:07 INFO  restartedMain com.zylogtest.demo.DemoApplication No active profile set, falling back to default profiles: default
+2020-12-30 11:29:07 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-12-30 11:29:07 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-12-30 11:29:08 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-12-30 11:29:08 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-12-30 11:29:08 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-12-30 11:29:08 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.41]
+2020-12-30 11:29:08 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-12-30 11:29:08 INFO  restartedMain org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1006 ms
+2020-12-30 11:29:08 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-30 11:29:08 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-12-30 11:29:08 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-12-30 11:29:08 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-12-30 11:29:08 INFO  restartedMain com.zylogtest.demo.DemoApplication Started DemoApplication in 2.044 seconds (JVM running for 2.688)
+2020-12-30 11:29:26 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-30 11:29:26 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-12-30 11:29:26 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 0 ms
+2020-12-30 11:29:26 INFO  http-nio-8080-exec-1 com.zylogtest.demo.aop.aspectForClass indexwill go
+2020-12-30 11:29:26 INFO  http-nio-8080-exec-1 com.zylogtest.demo.controller.logtest output info
+2020-12-30 11:29:26 INFO  http-nio-8080-exec-1 com.zylogtest.demo.aop.aspectForClass indexhave returnned forhello world
+2020-12-30 11:29:26 INFO  http-nio-8080-exec-1 com.zylogtest.demo.aop.aspectForClass indexhave gone
+2020-12-30 11:29:26 INFO  http-nio-8080-exec-1 com.zylogtest.demo.aop.aspectForClass [INTERFACE : com.zylogtest.demo.controller.logtest], [METHOD : index], [ARGS : []], [RESULT : hello world], [SPEND TIME : 9]
+2020-12-30 11:29:28 INFO  http-nio-8080-exec-4 com.zylogtest.demo.aop.aspectForClass indexwill go
+2020-12-30 11:29:28 INFO  http-nio-8080-exec-4 com.zylogtest.demo.controller.logtest output info
+2020-12-30 11:29:28 INFO  http-nio-8080-exec-4 com.zylogtest.demo.aop.aspectForClass indexhave returnned forhello world
+2020-12-30 11:29:28 INFO  http-nio-8080-exec-4 com.zylogtest.demo.aop.aspectForClass indexhave gone
+2020-12-30 11:29:28 INFO  http-nio-8080-exec-4 com.zylogtest.demo.aop.aspectForClass [INTERFACE : com.zylogtest.demo.controller.logtest], [METHOD : index], [ARGS : []], [RESULT : hello world], [SPEND TIME : 0]
+2020-12-30 13:46:29 INFO  restartedMain com.zylogtest.demo.DemoApplication Starting DemoApplication using Java 1.8.0_271 on LAPTOP-8BS2MTAN with PID 26740 (D:\code\logdemo\target\classes started by zy in D:\code\logdemo)
+2020-12-30 13:46:29 INFO  restartedMain com.zylogtest.demo.DemoApplication No active profile set, falling back to default profiles: default
+2020-12-30 13:46:29 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-12-30 13:46:29 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-12-30 13:46:31 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-12-30 13:46:31 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-12-30 13:46:31 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-12-30 13:46:31 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.41]
+2020-12-30 13:46:31 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-12-30 13:46:31 INFO  restartedMain org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 2424 ms
+2020-12-30 13:46:32 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-30 13:46:32 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-12-30 13:46:32 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-12-30 13:46:33 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-12-30 13:46:33 INFO  restartedMain com.zylogtest.demo.DemoApplication Started DemoApplication in 4.723 seconds (JVM running for 6.67)
+2020-12-30 13:47:09 INFO  http-nio-8080-exec-2 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-30 13:47:09 INFO  http-nio-8080-exec-2 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-12-30 13:47:09 INFO  http-nio-8080-exec-2 org.springframework.web.servlet.DispatcherServlet Completed initialization in 4 ms
+2020-12-30 13:47:09 INFO  http-nio-8080-exec-2 com.zylogtest.demo.aop.aspectForClass index will go
+2020-12-30 13:47:10 INFO  http-nio-8080-exec-2 com.zylogtest.demo.controller.LogTestForClass Class output info
+2020-12-30 13:47:10 INFO  http-nio-8080-exec-2 com.zylogtest.demo.aop.aspectForClass index have returnned for Class hello world
+2020-12-30 13:47:10 INFO  http-nio-8080-exec-2 com.zylogtest.demo.aop.aspectForClass index have gone
+2020-12-30 13:47:10 INFO  http-nio-8080-exec-2 com.zylogtest.demo.aop.aspectForClass [INTERFACE : com.zylogtest.demo.controller.LogTestForClass], [METHOD : index], [ARGS : []], [RESULT : Class hello world], [SPEND TIME : 47]
+2020-12-30 13:48:24 INFO  http-nio-8080-exec-4 com.zylogtest.demo.aop.aspectForMethod index will go
+2020-12-30 13:48:24 INFO  http-nio-8080-exec-4 com.zylogtest.demo.controller.LogTestForMethod Method output info
+2020-12-30 13:48:24 INFO  http-nio-8080-exec-4 com.zylogtest.demo.aop.aspectForMethod index have returnned forMethod hello world
+2020-12-30 13:48:24 INFO  http-nio-8080-exec-4 com.zylogtest.demo.aop.aspectForMethod index have gone
+2020-12-30 13:48:24 INFO  http-nio-8080-exec-4 com.zylogtest.demo.aop.aspectForMethod [INTERFACE : com.zylogtest.demo.controller.LogTestForMethod], [METHOD : index], [ARGS : []], [RESULT : Method hello world], [SPEND TIME : 22]
+2020-12-30 13:59:57 INFO  restartedMain com.zylogtest.demo.DemoApplication Starting DemoApplication using Java 1.8.0_271 on LAPTOP-8BS2MTAN with PID 17244 (D:\code\logdemo\target\classes started by zy in D:\code\logdemo)
+2020-12-30 13:59:57 INFO  restartedMain com.zylogtest.demo.DemoApplication No active profile set, falling back to default profiles: default
+2020-12-30 13:59:57 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-12-30 13:59:57 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-12-30 14:00:00 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-12-30 14:00:00 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-12-30 14:00:00 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-12-30 14:00:00 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.41]
+2020-12-30 14:00:00 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-12-30 14:00:00 INFO  restartedMain org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 2486 ms
+2020-12-30 14:00:01 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-30 14:00:01 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-12-30 14:00:01 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-12-30 14:00:01 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-12-30 14:00:01 INFO  restartedMain com.zylogtest.demo.DemoApplication Started DemoApplication in 4.798 seconds (JVM running for 6.068)
+2020-12-30 14:00:10 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-30 14:00:10 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-12-30 14:00:10 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 2 ms
+2020-12-30 14:00:57 INFO  restartedMain com.zylogtest.demo.DemoApplication Starting DemoApplication using Java 1.8.0_271 on LAPTOP-8BS2MTAN with PID 24556 (D:\code\logdemo\target\classes started by zy in D:\code\logdemo)
+2020-12-30 14:00:57 INFO  restartedMain com.zylogtest.demo.DemoApplication No active profile set, falling back to default profiles: default
+2020-12-30 14:00:57 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-12-30 14:00:57 INFO  restartedMain org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-12-30 14:01:00 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-12-30 14:01:00 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-12-30 14:01:00 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-12-30 14:01:00 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.41]
+2020-12-30 14:01:00 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-12-30 14:01:00 INFO  restartedMain org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 2632 ms
+2020-12-30 14:01:01 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-30 14:01:01 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-12-30 14:01:01 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-12-30 14:01:01 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-12-30 14:01:01 INFO  restartedMain com.zylogtest.demo.DemoApplication Started DemoApplication in 4.875 seconds (JVM running for 6.734)
+2020-12-30 14:01:06 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-30 14:01:06 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-12-30 14:01:06 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 3 ms
+2020-12-30 14:01:06 INFO  http-nio-8080-exec-1 com.zylogtest.demo.aop.aspectForMethod order -1 for method will go
+2020-12-30 14:01:06 INFO  http-nio-8080-exec-1 com.zylogtest.demo.aop.aspectForClass Order 1 for Class will go
+2020-12-30 14:01:06 INFO  http-nio-8080-exec-1 com.zylogtest.demo.controller.LogTest output info
+2020-12-30 14:01:06 INFO  http-nio-8080-exec-1 com.zylogtest.demo.aop.aspectForClass Order 1 for Class have returnned for hello world
+2020-12-30 14:01:06 INFO  http-nio-8080-exec-1 com.zylogtest.demo.aop.aspectForClass Order 1 for Class have gone
+2020-12-30 14:01:06 INFO  http-nio-8080-exec-1 com.zylogtest.demo.aop.aspectForClass [INTERFACE : com.zylogtest.demo.controller.LogTest], [METHOD : index], [ARGS : []], [RESULT : hello world], [SPEND TIME : 52]
+2020-12-30 14:01:06 INFO  http-nio-8080-exec-1 com.zylogtest.demo.aop.aspectForMethod order -1 for method have returnned forhello world
+2020-12-30 14:01:06 INFO  http-nio-8080-exec-1 com.zylogtest.demo.aop.aspectForMethod order -1 for method have gone
+2020-12-30 14:01:06 INFO  http-nio-8080-exec-1 com.zylogtest.demo.aop.aspectForMethod [INTERFACE : com.zylogtest.demo.controller.LogTest], [METHOD : index], [ARGS : []], [RESULT : hello world], [SPEND TIME : 84]
+2020-12-30 14:03:22 INFO  http-nio-8080-exec-3 com.zylogtest.demo.aop.aspectForMethod order -1 for method will go
+2020-12-30 14:03:22 INFO  http-nio-8080-exec-3 com.zylogtest.demo.aop.aspectForClass Order 1 for Class will go
+2020-12-30 14:03:22 INFO  http-nio-8080-exec-3 com.zylogtest.demo.controller.LogTest output info
+2020-12-30 14:03:22 INFO  http-nio-8080-exec-3 com.zylogtest.demo.aop.aspectForClass Order 1 for Class have returnned for hello world
+2020-12-30 14:03:22 INFO  http-nio-8080-exec-3 com.zylogtest.demo.aop.aspectForClass Order 1 for Class have gone
+2020-12-30 14:03:22 INFO  http-nio-8080-exec-3 com.zylogtest.demo.aop.aspectForClass [INTERFACE : com.zylogtest.demo.controller.LogTest], [METHOD : index], [ARGS : []], [RESULT : hello world], [SPEND TIME : 2]
+2020-12-30 14:03:22 INFO  http-nio-8080-exec-3 com.zylogtest.demo.aop.aspectForMethod order -1 for method have returnned forhello world
+2020-12-30 14:03:22 INFO  http-nio-8080-exec-3 com.zylogtest.demo.aop.aspectForMethod order -1 for method have gone
+2020-12-30 14:03:22 INFO  http-nio-8080-exec-3 com.zylogtest.demo.aop.aspectForMethod [INTERFACE : com.zylogtest.demo.controller.LogTest], [METHOD : index], [ARGS : []], [RESULT : hello world], [SPEND TIME : 3]
+2020-12-30 14:05:41 INFO  Thread-15 org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-30 14:05:42 INFO  restartedMain com.zylogtest.demo.DemoApplication Starting DemoApplication using Java 1.8.0_271 on LAPTOP-8BS2MTAN with PID 24556 (D:\code\logdemo\target\classes started by zy in D:\code\logdemo)
+2020-12-30 14:05:42 INFO  restartedMain com.zylogtest.demo.DemoApplication No active profile set, falling back to default profiles: default
+2020-12-30 14:05:42 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-12-30 14:05:42 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-12-30 14:05:42 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-12-30 14:05:42 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.41]
+2020-12-30 14:05:42 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-12-30 14:05:42 INFO  restartedMain org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 300 ms
+2020-12-30 14:05:42 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-30 14:05:42 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-12-30 14:05:42 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-12-30 14:05:42 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-12-30 14:05:42 INFO  restartedMain com.zylogtest.demo.DemoApplication Started DemoApplication in 0.529 seconds (JVM running for 287.358)
+2020-12-30 14:05:42 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener Condition evaluation unchanged
+2020-12-30 14:05:45 INFO  Thread-23 org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-30 14:05:45 INFO  restartedMain com.zylogtest.demo.DemoApplication Starting DemoApplication using Java 1.8.0_271 on LAPTOP-8BS2MTAN with PID 24556 (D:\code\logdemo\target\classes started by zy in D:\code\logdemo)
+2020-12-30 14:05:45 INFO  restartedMain com.zylogtest.demo.DemoApplication No active profile set, falling back to default profiles: default
+2020-12-30 14:05:46 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8080 (http)
+2020-12-30 14:05:46 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2020-12-30 14:05:46 INFO  restartedMain org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-12-30 14:05:46 INFO  restartedMain org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.41]
+2020-12-30 14:05:46 INFO  restartedMain org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-12-30 14:05:46 INFO  restartedMain org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 663 ms
+2020-12-30 14:05:47 INFO  restartedMain org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-30 14:05:47 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729
+2020-12-30 14:05:47 INFO  restartedMain org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2020-12-30 14:05:47 INFO  restartedMain org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8080 (http) with context path ''
+2020-12-30 14:05:47 INFO  restartedMain com.zylogtest.demo.DemoApplication Started DemoApplication in 1.889 seconds (JVM running for 292.43)
+2020-12-30 14:05:47 INFO  restartedMain org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener Condition evaluation unchanged
+2020-12-30 14:06:02 INFO  http-nio-8080-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-30 14:06:02 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2020-12-30 14:06:02 INFO  http-nio-8080-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 3 ms
+2020-12-30 14:06:02 INFO  http-nio-8080-exec-1 com.zylogtest.demo.aop.aspectForClass Order -1 for Class will go
+2020-12-30 14:06:02 INFO  http-nio-8080-exec-1 com.zylogtest.demo.aop.aspectForMethod order 1 for method will go
+2020-12-30 14:06:02 INFO  http-nio-8080-exec-1 com.zylogtest.demo.controller.LogTest output info
+2020-12-30 14:06:02 INFO  http-nio-8080-exec-1 com.zylogtest.demo.aop.aspectForMethod order 1 for method have returnned forhello world
+2020-12-30 14:06:02 INFO  http-nio-8080-exec-1 com.zylogtest.demo.aop.aspectForMethod order 1 for method have gone
+2020-12-30 14:06:02 INFO  http-nio-8080-exec-1 com.zylogtest.demo.aop.aspectForMethod [INTERFACE : com.zylogtest.demo.controller.LogTest], [METHOD : index], [ARGS : []], [RESULT : hello world], [SPEND TIME : 29]
+2020-12-30 14:06:02 INFO  http-nio-8080-exec-1 com.zylogtest.demo.aop.aspectForClass Order -1 for Class have returnned for hello world
+2020-12-30 14:06:02 INFO  http-nio-8080-exec-1 com.zylogtest.demo.aop.aspectForClass Order -1 for Class have gone
+2020-12-30 14:06:02 INFO  http-nio-8080-exec-1 com.zylogtest.demo.aop.aspectForClass [INTERFACE : com.zylogtest.demo.controller.LogTest], [METHOD : index], [ARGS : []], [RESULT : hello world], [SPEND TIME : 36]
+2020-12-30 14:06:23 INFO  http-nio-8080-exec-2 com.zylogtest.demo.aop.aspectForClass Order -1 for Class will go
+2020-12-30 14:06:23 INFO  http-nio-8080-exec-2 com.zylogtest.demo.aop.aspectForMethod order 1 for method will go
+2020-12-30 14:06:23 INFO  http-nio-8080-exec-2 com.zylogtest.demo.controller.LogTest output info
+2020-12-30 14:06:23 INFO  http-nio-8080-exec-2 com.zylogtest.demo.aop.aspectForMethod order 1 for method have returnned forhello world
+2020-12-30 14:06:23 INFO  http-nio-8080-exec-2 com.zylogtest.demo.aop.aspectForMethod order 1 for method have gone
+2020-12-30 14:06:23 INFO  http-nio-8080-exec-2 com.zylogtest.demo.aop.aspectForMethod [INTERFACE : com.zylogtest.demo.controller.LogTest], [METHOD : index], [ARGS : []], [RESULT : hello world], [SPEND TIME : 3]
+2020-12-30 14:06:23 INFO  http-nio-8080-exec-2 com.zylogtest.demo.aop.aspectForClass Order -1 for Class have returnned for hello world
+2020-12-30 14:06:23 INFO  http-nio-8080-exec-2 com.zylogtest.demo.aop.aspectForClass Order -1 for Class have gone
+2020-12-30 14:06:23 INFO  http-nio-8080-exec-2 com.zylogtest.demo.aop.aspectForClass [INTERFACE : com.zylogtest.demo.controller.LogTest], [METHOD : index], [ARGS : []], [RESULT : hello world], [SPEND TIME : 4]
